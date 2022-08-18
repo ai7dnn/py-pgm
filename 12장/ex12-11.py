@@ -1,0 +1,6 @@
+f1 = open("python.png", "rb")
+f2 = open("파이썬로고.png", "wb")
+img = f1.read()
+print(img)
+f2.write(img)
+f1.close() ;  f2.close()

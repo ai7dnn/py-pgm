@@ -1,0 +1,7 @@
+print(format("*", "^13"))
+print(format("*"*3, "^13"))
+print(format("*"*5, "^13"))
+print(format("*"*7, "^13"))
+print(format("*"*9, "^13"))
+print(format("*"*11, "^13"))
+print(format("*"*13, "^13"))

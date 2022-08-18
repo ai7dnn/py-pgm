@@ -1,0 +1,6 @@
+print("abs(-3.14)=", abs(-3.14))
+print("sum([10, 20, 30, 40, 50])=", sum([10, 20, 30, 40, 50]))
+print("max(10, 20)=", max(10, 20))
+print("min(10, 20)=", min(10, 20))
+print("pow(5, 3)=", pow(5, 3))
+print("round(27.74)=", round(27.74))

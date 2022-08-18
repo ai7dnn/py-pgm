@@ -1,0 +1,6 @@
+print(format("Hello!", ">10"))
+print(format("Hello!", "<10"))
+print(format("Hello!", "^10"))
+print(format(1234557, ","))
+print(format(365, "5d"))
+print(format(93.25678, "6.2f"))
